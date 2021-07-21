@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300;400;500&family=Open+Sans:wght@400;600&family=Yellowtail&display=swap");
+@import "reset.css";
 body {
   font-family: "Open Sans", sans-serif;
 }
