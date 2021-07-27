@@ -33,3 +33,7 @@
   height: 60px;
   border-radius: 25px;
 }
+.user-component__time {
+  margin-bottom: 5px;
+  display: block;
+}
